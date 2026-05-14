@@ -1,0 +1,228 @@
+[25-Jul-2023 04:20:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/cache.php on line 21
+[10-Jan-2024 04:59:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/cache.php on line 21
+[10-Jan-2024 21:46:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/cache.php on line 21
+[11-Jan-2024 16:18:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/cache.php on line 21
+[11-Jan-2024 19:30:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/cache.php on line 21
+[13-Jan-2024 16:27:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/cache.php on line 21
+[13-Jan-2024 19:41:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/cache.php on line 21
+[14-Jan-2024 01:34:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/cache.php on line 21
+[14-Jan-2024 03:40:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/cache.php on line 21
+[27-Jan-2024 00:29:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/app.php on line 16
+[27-Jan-2024 00:29:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/app.php on line 16
+[27-Jan-2024 00:29:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/app.php on line 16
+[27-Jan-2024 00:29:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/app.php on line 16
+[10-Feb-2024 21:33:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/cache.php on line 21
+[10-Feb-2024 21:38:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/app.php on line 16
+[10-Feb-2024 21:42:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/cache.php on line 21
+[10-Feb-2024 21:48:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/app.php on line 16
+[14-May-2024 23:15:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/database.php on line 18
+[02-Jun-2024 21:02:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/cache.php on line 21
+[04-Jun-2024 12:29:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/cache.php on line 21
+[05-Jun-2024 16:59:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/cache.php on line 21
+[15-Jul-2024 21:02:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/database.php on line 18
+[12-Dec-2024 17:50:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/cache.php on line 21
+[12-Dec-2024 18:00:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/app.php on line 16
+[12-Dec-2024 18:38:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/database.php on line 18
+[12-Dec-2024 18:44:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/services.php on line 18
+[12-Dec-2024 18:44:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/session.php on line 21
+[12-Dec-2024 18:44:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home4/drpreeti/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/view.php on line 17
+[12-Dec-2024 18:44:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/queue.php on line 16
+[12-Dec-2024 18:44:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/broadcasting.php on line 18
+[12-Dec-2024 18:44:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/logging.php on line 19
+[12-Dec-2024 18:52:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/cache.php on line 21
+[14-Jan-2025 07:28:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/database.php on line 18
+[31-Jan-2025 17:29:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/app.php on line 16
+[01-Feb-2025 19:44:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/app.php on line 16
+[02-Feb-2025 19:23:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/app.php on line 16
+[06-Feb-2025 20:48:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/app.php on line 16
+[02-Mar-2025 16:24:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/cache.php on line 21
+[09-Mar-2025 19:09:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/cache.php on line 21
+[02-Apr-2025 13:31:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/app.php on line 16
+[14-Apr-2025 12:14:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/services.php on line 18
+[14-Apr-2025 12:14:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/app.php on line 16
+[14-Apr-2025 12:17:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/cache.php on line 21
+[14-Apr-2025 12:17:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/filesystems.php on line 16
+[14-Apr-2025 12:17:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home4/drpreeti/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/view.php on line 17
+[05-Dec-2025 23:40:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/services.php on line 18
+[02-Jan-2026 13:39:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/app.php on line 16
+[07-Apr-2026 07:37:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/database.php on line 18
+[07-Apr-2026 07:37:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/app.php on line 16
+[07-Apr-2026 07:37:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/services.php on line 18
+[07-Apr-2026 07:38:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/cache.php on line 21
+[07-Apr-2026 07:41:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/filesystems.php on line 16
+[07-Apr-2026 07:41:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/queue.php on line 16
+[07-Apr-2026 07:41:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/session.php on line 21
+[07-Apr-2026 07:41:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home4/drpreeti/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/view.php on line 17
+[07-Apr-2026 07:41:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/logging.php on line 19
+[07-Apr-2026 07:41:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/drpreeti/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/drpreeti/public_html/config/broadcasting.php on line 18

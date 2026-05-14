@@ -1,0 +1,8 @@
+[10-Dec-2024 06:15:14 UTC] PHP Warning:  scandir(/home4/drpreeti/public_html/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc2.php): failed to open dir: Not a directory in /home4/drpreeti/public_html/public/images/institute/1733811082.php on line 1
+[10-Dec-2024 06:15:14 UTC] PHP Warning:  scandir(): (errno 20): Not a directory in /home4/drpreeti/public_html/public/images/institute/1733811082.php on line 1
+[10-Dec-2024 06:15:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/drpreeti/public_html/public/images/institute/1733811082.php on line 1
+[10-Dec-2024 06:15:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/drpreeti/public_html/public/images/institute/1733811082.php on line 1
+[10-Dec-2024 06:15:17 UTC] PHP Warning:  scandir(/home4/drpreeti/public_html/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc2.php): failed to open dir: Not a directory in /home4/drpreeti/public_html/public/images/institute/1733811082.php on line 1
+[10-Dec-2024 06:15:17 UTC] PHP Warning:  scandir(): (errno 20): Not a directory in /home4/drpreeti/public_html/public/images/institute/1733811082.php on line 1
+[10-Dec-2024 06:15:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/drpreeti/public_html/public/images/institute/1733811082.php on line 1
+[10-Dec-2024 06:15:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/drpreeti/public_html/public/images/institute/1733811082.php on line 1

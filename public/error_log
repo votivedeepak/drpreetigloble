@@ -1,0 +1,1 @@
+[12-Oct-2025 23:16:56 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::contact() in /home4/drpreeti/public_html/app/Http/Controllers/HomeController.php on line 140
